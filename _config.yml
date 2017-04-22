@@ -8,12 +8,13 @@
 # Site settings
 title: Haywire
 email: abhinavagrawal1995@gmail.com
+github.url: https://github.com/abhinavagrawal1995/abhinavagrawal1995.github.io
 description: > # this means to ignore newlines until "baseurl:"
   Haywire ia
   
   
   
-baseurl: "/haywire/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abhinavagrawal.in" # the base hostname & protocol for your site
 
 #sidebar
@@ -29,7 +30,7 @@ copyright:
 markdown: kramdown
 permalink: /:title/
 paginate: 6
-paginate_path: /page:num/
+paginate_path: haywire/page:num/
 
 # Tracker
 analytics: UA-83979019-1
