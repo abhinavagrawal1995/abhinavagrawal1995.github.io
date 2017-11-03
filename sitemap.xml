@@ -6,4 +6,10 @@
         <changefreq>1</changefreq>
         <priority>0.5</priority>
     </url>
+    <url>
+        <loc>abhinavagrawal.in/cv.pdf</loc>
+        <lastmod></lastmod>
+        <changefreq>1</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>

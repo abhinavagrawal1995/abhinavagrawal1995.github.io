@@ -269,6 +269,7 @@ footer {
 
 .social {
     text-align: right;
+    float: right;
 
     ul {
         margin: 5px 0 0 0;
@@ -349,12 +350,14 @@ footer {
     position: relative;
     background: url(../images/slide-2.jpg);
     background-size: cover;
-    padding: 250px 15px;
+    // padding: 250px 15px;
+    height:100vh;
 }
 
 #lead-content {
     position: relative;
     z-index: 10;
+    padding-top: 20%;
     text-align: center;
 
     h1, h2 {
@@ -883,10 +886,6 @@ footer {
         a {
             padding: 10px 20px;
         }
-    }
-
-    #lead-down {
-        display: none;
     }
 
     .education-block {
