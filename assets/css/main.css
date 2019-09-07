@@ -954,4 +954,5 @@ a:hover {
   line-height: 30px;
   background-color: #ffffff52;
   font-weight: 600;
+  cursor: pointer;
 }
